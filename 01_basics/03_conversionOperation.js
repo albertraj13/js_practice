@@ -14,5 +14,21 @@ console.log(booleanValue)
 // "" -> false
 //"albert" -> true
 
+// ********* conversion **********
+
+//console.log(2+"2")  // a string 
+//console.log("2"+2)  //   and a number
+//console.log("2"+"2") //  conversion is always a string
+
+// console.log(2+2+"2")
+// console.log("2"+2+2)
+
+let num = 20
+console.log(num++)
+
+
+
+
+
 
 
